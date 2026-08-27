@@ -1,6 +1,6 @@
 # Bracket Validation
 
-A Java implementation of the classic bracket validation algorithm, commonly used as an interview practice problem.
+A Java implementation of the classic bracket validation algorithm, commonly used as an interview practice problem. 100% test coverage.
 
 ## Problem
 
